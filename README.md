@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-age-calculator-using-tailwind-css-Sv9LbnK678)
-- Live Site URL: [Add live site URL here](https://age-calculator-react-w911.onrender.com/)
+- Solution URL: [solution](https://www.frontendmentor.io/solutions/responsive-age-calculator-using-tailwind-css-Sv9LbnK678)
+- Live Site URL: [live site](https://age-calculator-react-w911.onrender.com/)
 
 ## My process
 
